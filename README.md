@@ -1,5 +1,5 @@
 # sw-cjs2esm
-让 script module 为所欲为 
+让 script module 为所欲为  直接在浏览器中使用 import 引入 cjs库
 
 
 # 使用
